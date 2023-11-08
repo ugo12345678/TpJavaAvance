@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f57b683-5568-488f-920d-16ee5b600262" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/enums/CriticiteAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/CritereFiltrage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Filtrage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Traceur.java" afterDir="false" />
+    <list default="true" id="2f57b683-5568-488f-920d-16ee5b600262" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/credit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vandecasteele/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +19,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -33,9 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2XtZI39tmrTtqxYdXqZuUb7dh3o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,6 +57,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699450254327</updated>
       <workItem from="1699450255582" duration="778000" />
+      <workItem from="1699452515712" duration="286000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />

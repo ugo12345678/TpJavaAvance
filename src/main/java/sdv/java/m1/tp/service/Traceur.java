@@ -3,6 +3,7 @@ package sdv.java.m1.tp.service;
 import sdv.java.m1.tp.enums.CriticiteAction;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -16,8 +17,7 @@ public class Traceur {
     private static final String FILE_PATH = "traces.txt";
     private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
 
-    public void tracer(CriticiteAction criticite, String description) {
-
+    public void tracer(CriticiteAction criticite, String description) throws IOException {
         String timestamp = ZonedDateTime.now().format(DATE_FORMATTER);
         String logEntry = String.format("%s %s %s\n", criticite, timestamp, description);
 

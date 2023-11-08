@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f57b683-5568-488f-920d-16ee5b600262" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/enums/CriticiteAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/CritereFiltrage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Filtrage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Traceur.java" afterDir="false" />
+    <list default="true" id="2f57b683-5568-488f-920d-16ee5b600262" name="Changes" comment="third commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vandecasteele/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/ihm/Fenetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/ihm/Fenetre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Filtrage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Filtrage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Traceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service/Traceur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp" />
+      <recent name="$PROJECT_DIR$/src/main/java/sdv/java/m1/tp/service" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699450254327</updated>
-      <workItem from="1699450255582" duration="778000" />
+      <workItem from="1699450255582" duration="4668000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -76,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699450479784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1699451053275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699451053275</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1699452287047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699452287047</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>

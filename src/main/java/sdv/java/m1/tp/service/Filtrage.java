@@ -10,7 +10,6 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Filtrage {
-
     public Stream<String> filtrer(List<String> lignes, CritereFiltrage critere) {
         return lignes.stream()
                 .filter(ligne -> critere.getCriticites().stream()

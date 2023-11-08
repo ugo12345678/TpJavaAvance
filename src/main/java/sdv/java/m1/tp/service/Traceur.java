@@ -17,6 +17,7 @@ public class Traceur {
     private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
 
     public void tracer(CriticiteAction criticite, String description) {
+
         String timestamp = ZonedDateTime.now().format(DATE_FORMATTER);
         String logEntry = String.format("%s %s %s\n", criticite, timestamp, description);
 
